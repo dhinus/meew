@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'meew'
+puts Meew.hi(ARGV[0])
