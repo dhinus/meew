@@ -1,5 +1,5 @@
 class Meew
-  def self.hi(command)
+  def self.run(command = '')
     puts "Meeeeew! #{command}"
   end
 end
