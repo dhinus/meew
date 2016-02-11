@@ -1,8 +1,11 @@
+require "meew/cat_images"
+
 class Meew
   def self.run(args)
     case args[0]
     when "browser"
-      not_implemented
+      image = CatImages.get
+      system("open #{image}")
     when "file"
       not_implemented
     when "fact"

@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.description = 'A simple cat-friendly gem'
   s.authors     = ['Francesco Negri']
   s.email       = 'francesconegri@gmail.com'
-  s.files       = ['lib/meew.rb']
+  s.files       = ['lib/meew.rb', 'lib/meew/cat_images.rb']
   s.license     = 'MIT'
 end

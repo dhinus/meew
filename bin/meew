@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
 require 'meew'
-puts Meew.run(ARGV)
+Meew.run(ARGV)
