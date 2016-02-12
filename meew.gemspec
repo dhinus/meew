@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.email       = 'francesconegri@gmail.com'
   s.files       = ['lib/meew.rb',
                    'lib/meew/cat_images.rb',
-                   'lib/meew/cat_facts.rb']
+                   'lib/meew/cat_facts.rb',
+                   'lib/meew/tech_news.rb']
   s.license     = 'MIT'
 end

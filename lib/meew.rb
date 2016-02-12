@@ -1,7 +1,9 @@
 require "meew/cat_images"
 require "meew/cat_facts"
+require "meew/tech_news"
 require "fileutils"
 require "open-uri"
+require "moar-lolspeak"
 
 class Meew
   def self.run(args)
@@ -9,6 +11,7 @@ class Meew
     when "browser" then browser
     when "file" then file
     when "fact" then fact
+    when "news" then news
     else print_usage
     end
   end
@@ -40,11 +43,16 @@ class Meew
     end
   end
 
+  def self.news
+    puts Moar::Lolspeak.translate(TechNews.get)
+  end
+
   def self.print_usage
     puts "\nUsage: meew [command]"
     puts "\nAvailable commands:"
     puts "  browser    open a new browser window displaying an image of a cat"
     puts "  file       save on the desktop an image of a cat"
     puts "  fact       display a cat fact"
+    puts "  news       CAN I HAS NEWZ?"
   end
 end

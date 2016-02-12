@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'httparty', '~> 0.13'
+gem 'camertron-moar-lolspeak'
 
 group :dev do
   gem 'rspec', '~> 3.4'

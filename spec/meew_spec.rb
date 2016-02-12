@@ -82,4 +82,18 @@ RSpec.describe Meew, "#run" do
       end
     end
   end
+
+  context "the 'news' command" do
+    before do
+      allow(TechNews).to receive(:get) { "Some tech news" }
+      allow(Moar::Lolspeak).to receive(:translate) do |arg|
+        arg.upcase.sub(/SOME/, "SUM")
+      end
+    end
+
+    it "prints a news item in LOLspeak" do
+      expect { Meew.run(["news"]) }.
+        to output("SUM TECH NEWS\n").to_stdout
+    end
+  end
 end

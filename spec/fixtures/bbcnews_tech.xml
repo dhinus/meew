@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Technology</title>  
+    <link>http://www.bbc.co.uk/news/technology</link>  
+    <description>The latest stories from the Technology section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Fri, 12 Feb 2016 09:36:19 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Technology</title>  
+      <link>http://www.bbc.co.uk/news/technology</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>VTech 'is responsible' for kids' data</title>  
+      <description>The UK's data privacy watchdog confirms that VTech remains responsible for protecting users' data despite changes to its terms and conditions.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35548143#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35548143</guid>  
+      <pubDate>Thu, 11 Feb 2016 17:15:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/3D24/production/_88225651_88215295.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/6434/production/_88225652_88215295.jpg"/> 
+    </item>  
+    <item> 
+      <title>Facebook ‘colonialism' row stokes distrust</title>  
+      <description>Comments by a Facebook board member could put Mark Zuckerberg's global plans on the back foot.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35547416#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35547416</guid>  
+      <pubDate>Thu, 11 Feb 2016 08:26:30 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/42D7/production/_88211171_88211107.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/69E7/production/_88211172_88211107.jpg"/> 
+    </item>  
+    <item> 
+      <title>Lego children's prosthetic wins award</title>  
+      <description>A prosthetic arm that allows children to design their own Lego accessories wins an innovation award in Paris.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35549905#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35549905</guid>  
+      <pubDate>Thu, 11 Feb 2016 14:59:31 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/E219/production/_88218875_carlos-arturo_torres_set_backhoe.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10929/production/_88218876_carlos-arturo_torres_set_backhoe.png"/> 
+    </item>  
+    <item> 
+      <title>Gay-themed emojis irk Indonesia</title>  
+      <description>Messaging apps should respect local values, information ministry says.</description>  
+      <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-35551109#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-35551109</guid>  
+      <pubDate>Thu, 11 Feb 2016 15:38:51 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Paul McCartney creates Skype emojis</title>  
+      <description>Sir Paul McCartney has composed music for a series of 'audio emojis' on Skype</description>  
+      <link>http://www.bbc.co.uk/news/technology-35552254#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35552254</guid>  
+      <pubDate>Thu, 11 Feb 2016 16:26:32 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Google extends 'right to be forgotten'</title>  
+      <description>Tech giant Google says it will hide content removed under the "right to be forgotten" from all versions of the search engine when viewed from countries where removal was approved.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35548532#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35548532</guid>  
+      <pubDate>Thu, 11 Feb 2016 09:36:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/53B7/production/_88213412_gettyimages-501549650.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/7AC7/production/_88213413_gettyimages-501549650.jpg"/> 
+    </item>  
+    <item> 
+      <title>Vatican promotes Lent on Telegram</title>  
+      <description>The Vatican is using the controversial instant messaging app Telegram to promote Lent</description>  
+      <link>http://www.bbc.co.uk/news/technology-35549335#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35549335</guid>  
+      <pubDate>Thu, 11 Feb 2016 17:01:32 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Google defends UK tax arrangements</title>  
+      <description>Google's UK chief defends the search giant's tax arrangements in a hearing before MPs on the Commons Public Accounts Committee.</description>  
+      <link>http://www.bbc.co.uk/news/business-35550487#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35550487</guid>  
+      <pubDate>Thu, 11 Feb 2016 13:59:24 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Gadget battery shipments face scrutiny</title>  
+      <description>The US National Transportation Safety Board says shipments of lithium-ion batteries on planes should be restricted because of safety fears.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35548540#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35548540</guid>  
+      <pubDate>Thu, 11 Feb 2016 12:30:53 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/E453/production/_88215485_thinkstockphotos-122454755.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10B63/production/_88215486_thinkstockphotos-122454755.jpg"/> 
+    </item>  
+    <item> 
+      <title>Making government a bit more digital</title>  
+      <description>The UK government makes a small step towards making online communication with the public easier.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35548160#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35548160</guid>  
+      <pubDate>Thu, 11 Feb 2016 08:45:34 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Parents urged to boycott VTech toys</title>  
+      <description>A range of cybersecurity experts warn parents to beware of buying VTech's electronic toys following its handling of a recent hack attack.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35532644#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35532644</guid>  
+      <pubDate>Wed, 10 Feb 2016 09:51:29 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/06E8/production/_88186710_88185417.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/2DF8/production/_88186711_88185417.jpg"/> 
+    </item>  
+    <item> 
+      <title>Spy law 'needs significant changes'</title>  
+      <description>Theresa May's internet monitoring and spying bill needs "significant work" before becoming law, the committee scrutinising it says.</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-35544789#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-35544789</guid>  
+      <pubDate>Thu, 11 Feb 2016 14:56:51 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Woman, 82, denies Redford film piracy</title>  
+      <description>An 82-year-old woman accused of illegally pirating a Robert Redford film receives a £600 demand.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-birmingham-35504596#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-birmingham-35504596</guid>  
+      <pubDate>Thu, 11 Feb 2016 12:39:23 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: A millennium spent in the cloud</title>  
+      <description>The visual effects supervisor behind The Walk talks about using the cloud to bring the film to life</description>  
+      <link>http://www.bbc.co.uk/news/technology-35362328#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35362328</guid>  
+      <pubDate>Wed, 03 Feb 2016 00:34:09 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/EF70/production/_88069216_85828305.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/11680/production/_88069217_85828305.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'Social cinema' series debuts on Instagram</title>  
+      <description>BBC Click talks to the team behind a "social cinema" film.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35362325#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35362325</guid>  
+      <pubDate>Mon, 01 Feb 2016 10:41:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/5CED/production/_87998732__87626880_s5sp-23.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/83FD/production/_87998733__87626880_s5sp-23.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: The robot that camouflages itself</title>  
+      <description>BBC Click's Nick Kwek looks at some of the best of the week's technology news.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35405333#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35405333</guid>  
+      <pubDate>Thu, 11 Feb 2016 21:37:24 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/11460/production/_88225707_robot-chameleon.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/13B70/production/_88225708_robot-chameleon.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: The rolling, HD security camera</title>  
+      <description>How a remote controlled rolling camera could protect your home and other home security technology reviewed</description>  
+      <link>http://www.bbc.co.uk/news/technology-35535329#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35535329</guid>  
+      <pubDate>Thu, 11 Feb 2016 11:15:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/10EE4/production/_88184396_security_camera_orb.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/135F4/production/_88184397_security_camera_orb.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Google boss asked 'what do you get paid?'</title>  
+      <description>Google's UK head, Matt Brittin, is asked about his salary as he appeared before the Public Accounts Committee.</description>  
+      <link>http://www.bbc.co.uk/news/business-35547729#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35547729</guid>  
+      <pubDate>Thu, 11 Feb 2016 12:35:49 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/B9B5/production/_88214574_88214566.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/1059B/production/_88217966_88214566.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Artificial intelligence buys stocks</title>  
+      <description>Hedge funds are increasingly turning to artificial intelligence in order to spot trends to try to make money for their customers</description>  
+      <link>http://www.bbc.co.uk/news/technology-35405336#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35405336</guid>  
+      <pubDate>Wed, 10 Feb 2016 00:03:48 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/0894/production/_88169120_gettyimages-187250301.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/2FA4/production/_88169121_gettyimages-187250301.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Is self-publishing hot right now?</title>  
+      <description>As more and more writers choose to self-publish, how are these author-entrepreneurs changing the bookselling industry?</description>  
+      <link>http://www.bbc.co.uk/news/business-35482351#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35482351</guid>  
+      <pubDate>Tue, 09 Feb 2016 00:02:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/39E2/production/_88081841_authors_royal.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/60F2/production/_88081842_authors_royal.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Smartpatch aims to put snoring to bed</title>  
+      <description>The Silent Partner claims to have come up with a solution for those sleeping with someone who snores.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35405339#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35405339</guid>  
+      <pubDate>Mon, 08 Feb 2016 08:17:01 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/A052/production/_88124014_de27.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/C762/production/_88124015_de27.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: The traffic cones with built-in fans</title>  
+      <description>Why a Japanese engineer is taking a lateral approach to problem solving</description>  
+      <link>http://www.bbc.co.uk/news/technology-35471463#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35471463</guid>  
+      <pubDate>Mon, 08 Feb 2016 10:16:29 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/7143/production/_88059982_traffic_cone1920.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/7536/production/_88060003_traffic_cone1920.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Inventor of early TV technology recognised</title>  
+      <description>Scottish inventor Alexander Bain is awarded an Emmy for services to technology and engineering, nearly 140 years after his death.</description>  
+      <link>http://www.bbc.co.uk/news/uk-scotland-35501830#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-scotland-35501830</guid>  
+      <pubDate>Fri, 05 Feb 2016 13:57:20 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/153EE/production/_88122078_emmy.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/17AFE/production/_88122079_emmy.jpg"/> 
+    </item>  
+    <item> 
+      <title>Fruit and veg goes digital in South America</title>  
+      <description>The apps aiming to shake up grocery shopping in South America</description>  
+      <link>http://www.bbc.co.uk/news/business-35424248#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35424248</guid>  
+      <pubDate>Thu, 11 Feb 2016 21:42:33 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Can technology help build a perfect country?</title>  
+      <description>Can technology help build a perfect country?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35498021#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35498021</guid>  
+      <pubDate>Fri, 05 Feb 2016 00:14:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/5BAE/production/_88107432_innovation.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/82BE/production/_88107433_innovation.jpg"/> 
+    </item>  
+    <item> 
+      <title>Is self-publishing coming of age?</title>  
+      <description>How easy is self-publishing?</description>  
+      <link>http://www.bbc.co.uk/news/business-35482345#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35482345</guid>  
+      <pubDate>Tue, 09 Feb 2016 00:03:15 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/484E/production/_88101581_bookmoney.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/6F5E/production/_88101582_bookmoney.jpg"/> 
+    </item>  
+    <item> 
+      <title>Why do mobile phones still work in jail?</title>  
+      <description>Why are illicit mobiles still in prisons?</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-tyne-35411297#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-tyne-35411297</guid>  
+      <pubDate>Mon, 08 Feb 2016 00:22:51 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/13D17/production/_88157118_88157111.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/16427/production/_88157119_88157111.jpg"/> 
+    </item>  
+    <item> 
+      <title>How social media is transforming the fashion industry</title>  
+      <description>How social media is transforming the fashion industry</description>  
+      <link>http://www.bbc.co.uk/news/business-35483480#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35483480</guid>  
+      <pubDate>Fri, 05 Feb 2016 00:08:40 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Could Vietnam become the next Silicon Valley?</title>  
+      <description>Why tech entrepreneurs are choosing South East Asia over California</description>  
+      <link>http://www.bbc.co.uk/news/business-35227626#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35227626</guid>  
+      <pubDate>Tue, 02 Feb 2016 00:49:13 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Finding your way in a country without street addresses</title>  
+      <description>Finding your way in a country without street addresses</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-35385636#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-35385636</guid>  
+      <pubDate>Mon, 01 Feb 2016 01:18:38 GMT</pubDate> 
+    </item> 
+  </channel> 
+</rss>
