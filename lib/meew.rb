@@ -1,4 +1,5 @@
 require "meew/cat_images"
+require "meew/cat_facts"
 require "fileutils"
 require "open-uri"
 
@@ -7,7 +8,7 @@ class Meew
     case args[0]
     when "browser" then browser
     when "file" then file
-    when "fact" then not_implemented
+    when "fact" then fact
     else print_usage
     end
   end
@@ -15,6 +16,10 @@ class Meew
   def self.browser
     image_url = CatImages.get
     system("open #{image_url}")
+  end
+
+  def self.fact
+    puts CatFacts.get
   end
 
   def self.file
@@ -41,9 +46,5 @@ class Meew
     puts "  browser    open a new browser window displaying an image of a cat"
     puts "  file       save on the desktop an image of a cat"
     puts "  fact       display a cat fact"
-  end
-
-  def self.not_implemented
-    puts "\nThis command is not implemented yet"
   end
 end

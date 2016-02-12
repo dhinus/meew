@@ -28,6 +28,15 @@ RSpec.describe Meew, "#run" do
     end
   end
 
+  context "the 'fact' command" do
+      before { allow(CatFacts).to receive(:get) { "A random cat fact" } }
+
+      it "displays a random cat fact" do
+        expect { Meew.run(["fact"]) }.
+          to output("A random cat fact\n").to_stdout
+    end
+  end
+
   context "the 'file' command" do
     include FakeFS::SpecHelpers
 
@@ -71,13 +80,6 @@ RSpec.describe Meew, "#run" do
         expect { Meew.run(["file"]) }.to raise_error(SystemExit)
         expect(File.read(file_path)).to eq("existing cat")
       end
-    end
-  end
-
-  context "the 'fact' command" do
-    it "shows 'not implemented'" do
-      expect { Meew.run(["fact"]) }.
-        to output(/This command is not implemented yet/).to_stdout
     end
   end
 end
