@@ -24,10 +24,10 @@ meew [command]
 
 Available commands:
 
-* **browser** open a new browser window displaying an image of a cat"
-* **file** save on the desktop an image of a cat"
-* **fact** display a cat fact"
-* **news** CAN I HAS NEWZ?"
+* **browser** open a new browser window displaying an image of a cat
+* **file** save on the desktop an image of a cat
+* **fact** display a cat fact
+* **news** CAN I HAS NEWZ?
 
 ## Running tests
 
