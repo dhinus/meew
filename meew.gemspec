@@ -11,5 +11,6 @@ Gem::Specification.new do |s|
                    'lib/meew/cat_images.rb',
                    'lib/meew/cat_facts.rb',
                    'lib/meew/tech_news.rb']
+  s.homepage    = 'http://rubygems.org/gems/meew'
   s.license     = 'MIT'
 end
