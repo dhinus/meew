@@ -11,7 +11,6 @@ To install you can:
 ```sh
 git clone https://github.com/dhinus/meew.git
 cd meew
-bundle
 gem build meew.gemspec
 gem install ./meew-0.0.1.gem
 ```
