@@ -1,4 +1,4 @@
-# Meew ![Build Status](https://travis-ci.org/dhinus/meew.svg)
+# Meew [![Build Status](https://travis-ci.org/dhinus/meew.svg?branch=master)](https://travis-ci.org/dhinus/meew)
 
 A simple example of using Ruby for command line utilities.
 
